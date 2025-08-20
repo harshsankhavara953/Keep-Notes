@@ -1,0 +1,278 @@
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.csproj.AssemblyReference.cache
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.AssemblyInfoInputs.cache
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.AssemblyInfo.cs
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.csproj.CoreCompileInputs.cache
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.MvcApplicationPartsAssemblyInfo.cache
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.RazorAssemblyInfo.cache
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.RazorAssemblyInfo.cs
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\appsettings.Development.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\appsettings.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\DairyApp.staticwebassets.runtime.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\DairyApp.staticwebassets.endpoints.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\DairyApp.exe
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\DairyApp.deps.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\DairyApp.runtimeconfig.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\DairyApp.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\DairyApp.pdb
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Azure.Core.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Azure.Identity.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Humanizer.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.CodeDom.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Memory.Data.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\scopedcss\bundle\DairyApp.styles.css
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\scopedcss\projectbundle\DairyApp.bundle.scp.css
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\staticwebassets.build.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\staticwebassets.development.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.csproj.Up2Date
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\refint\DairyApp.dll
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.pdb
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\DairyApp.genruntimeconfig.cache
+F:\MCA\SEM-3\.NET\dairy\Dairy\DairyApp\obj\Debug\net8.0\ref\DairyApp.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\appsettings.Development.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\appsettings.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\DairyApp.staticwebassets.endpoints.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\DairyApp.staticwebassets.runtime.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\DairyApp.exe
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\DairyApp.deps.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\DairyApp.runtimeconfig.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\DairyApp.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\DairyApp.pdb
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Azure.Core.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Azure.Identity.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Humanizer.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.CodeDom.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Memory.Data.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.csproj.AssemblyReference.cache
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.AssemblyInfoInputs.cache
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.AssemblyInfo.cs
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.csproj.CoreCompileInputs.cache
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.MvcApplicationPartsAssemblyInfo.cache
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.RazorAssemblyInfo.cache
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.RazorAssemblyInfo.cs
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\scopedcss\bundle\DairyApp.styles.css
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\scopedcss\projectbundle\DairyApp.bundle.scp.css
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\staticwebassets.build.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\staticwebassets.development.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.csproj.Up2Date
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\refint\DairyApp.dll
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.pdb
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\DairyApp.genruntimeconfig.cache
+F:\MCA\SEM-3\.NET\dairy\Keep Notes\DairyApp\obj\Debug\net8.0\ref\DairyApp.dll

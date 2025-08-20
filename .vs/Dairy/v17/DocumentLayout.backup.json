@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MCA\\SEM-3\\.NET\\dairy\\Keep Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5515F0E4-1BFE-4488-BB9E-CF530C3AEA73}|DairyApp\\DairyApp.csproj|f:\\mca\\sem-3\\.net\\dairy\\keep notes\\dairyapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5515F0E4-1BFE-4488-BB9E-CF530C3AEA73}|DairyApp\\DairyApp.csproj|solutionrelative:dairyapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Models\\DiaryEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Controllers\\DiaryEntriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Home\\Mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Migrations\\20250817135317_AddedSeedingDataDiaryEntries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\DairyApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Migrations\\20250817131900_AddDiaryEntryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T13:40:42.004Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Keep Notes\\DairyApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DairyApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Keep Notes\\DairyApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DairyApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:43:27.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiaryEntry.cs",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Models\\DiaryEntry.cs",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Models\\DiaryEntry.cs",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Models\\DiaryEntry.cs",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Models\\DiaryEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:49:05.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiaryEntriesController.cs",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Controllers\\DiaryEntriesController.cs",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Controllers\\DiaryEntriesController.cs",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Controllers\\DiaryEntriesController.cs",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Controllers\\DiaryEntriesController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:05:03.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\DiaryEntries\\Create.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Create.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\DiaryEntries\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T17:06:45.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T15:30:15.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T13:56:56.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T13:52:32.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mypage.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Home\\Mypage.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\Home\\Mypage.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Home\\Mypage.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\Home\\Mypage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T15:13:22.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T13:44:58.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T16:35:20.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Program.cs",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Program.cs",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:21:55.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T15:14:36.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T14:21:36.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T14:21:38.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250817135317_AddedSeedingDataDiaryEntries.cs",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Migrations\\20250817135317_AddedSeedingDataDiaryEntries.cs",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Migrations\\20250817135317_AddedSeedingDataDiaryEntries.cs",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Migrations\\20250817135317_AddedSeedingDataDiaryEntries.cs",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Migrations\\20250817135317_AddedSeedingDataDiaryEntries.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:53:17.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:48:24.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DairyApp.csproj",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\DairyApp.csproj",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\DairyApp.csproj",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\DairyApp.csproj",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\DairyApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T14:03:08.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:15:13.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250817131900_AddDiaryEntryTable.cs",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Migrations\\20250817131900_AddDiaryEntryTable.cs",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Migrations\\20250817131900_AddDiaryEntryTable.cs",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Migrations\\20250817131900_AddDiaryEntryTable.cs",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Migrations\\20250817131900_AddDiaryEntryTable.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:19:01.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\appsettings.json",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\appsettings.json",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T13:34:27.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:44:43.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T13:20:48.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\Dairy\\DairyApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "F:\\MCA\\SEM-3\\.NET\\dairy\\Dairy\\DairyApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "..\\Dairy\\DairyApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T14:21:12.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
